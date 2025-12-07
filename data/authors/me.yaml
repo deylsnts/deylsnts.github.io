@@ -53,32 +53,35 @@ experience:
 skills:
   - name: Technical Skills
     items:
-      - label: Pytho
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+      - label: Python
         level: 4
+      - label: SQL
+        level: 4
+      - label: Cloud Computing
+        level: 3
   - name: Research & Communication
     items:
       - label: Academic Writing
         level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
+      - label: Presentations
         level: 4
 
 languages:
-  - name: English
+  - name: Tagalog
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
     label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: University/College Honors
+    awarder: De La Salle-College of Saint Benilde
+    date: "2022-2025"
+    summary: Awarded for having a GPA above 3.5 in the semester.
+    icon: hero/trophy
+  - title: Plaque of Recognition
+    awarder: De La Salle-College of Saint Benilde
+    date: "2025"
+    summary: Awarded for achieving the Dean’s List for three consecutive semesters.
     icon: hero/trophy
