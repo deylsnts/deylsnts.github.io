@@ -37,26 +37,18 @@ interests:
 education:
   - degree: Bachelor of Science in Information Systems
     institution: De La Salle-College of Saint Benilde
-    start: 2022
-    end: 2026
+    start: '2022'
+    end: '2026'
   
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Front-end Developer
+    org: Globe Telecom
+    start: 2025-09-08
+    end: 2025-12-05
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Created a content management system for the Automation team, and enhanced thei UI of their Flutterfow app.
+    
 
 skills:
   - name: Technical Skills
