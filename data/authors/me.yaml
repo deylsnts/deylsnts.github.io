@@ -75,11 +75,6 @@ languages:
     label: Fluent
 
 awards:
-  - title: University/College Honors
-    awarder: De La Salle-College of Saint Benilde
-    date: "2022-2025"
-    summary: Awarded for having a GPA above 3.5 in the semester.
-    icon: hero/trophy
   - title: Plaque of Recognition
     awarder: De La Salle-College of Saint Benilde
     date: "2025-07-05"
