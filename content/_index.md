@@ -40,7 +40,7 @@ sections:
     content:
       title: '📚 Capstone Research'
       subtitle: ''
-      image: '/uploads/capstone.png'
+      image: 'static/uploads/capstone.png'
       text: |-
         The Furmates prototype is an early iteration of a centralized web-based platform for managing dog adoption and shelters that aims to improve shelter operations and adopters' experiences in Metro Manila. Essential functions including pet listing administration, adoption application tracking, messaging, and donation facilitation are all included in this prototype. Furmates is a digital technology that streamlines manual shelter workflows by replacing them with automated systems.
 
