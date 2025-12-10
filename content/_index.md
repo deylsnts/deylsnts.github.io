@@ -42,12 +42,10 @@ sections:
       subtitle: ''
       text: |-
       
-        The Furmates prototype is an early iteration of a centralized web-based platform for managing dog adoption and shelters that aims to improve shelter operations and adopters' experiences in Metro Manila. Essential functions including pet listing administration, adoption application tracking, messaging, and donation facilitation are all included in this prototype. Furmates is a digital technology that streamlines manual shelter workflows by replacing them with automated systems.
-
-        Please reach out to collaborate
+        College life at De La Salle–College of Saint Benilde has been a journey of growth and discovery. Balancing classes, projects, and campus life can be challenging, but it teaches resilience and time management. Meeting diverse classmates, joining activities, and working on real projects has helped me learn, connect, and grow. Beyond academics, college is about finding passions, building friendships, and preparing for life beyond the classroom.
     design:
       columns: '1'
-  - block: collection
+  - block: hero
     id: papers
     content:
       title: Featured Publications
