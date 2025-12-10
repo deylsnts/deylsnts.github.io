@@ -45,7 +45,7 @@ sections:
         College life at De La Salle–College of Saint Benilde has been a journey of growth and discovery. Balancing classes, projects, and campus life can be challenging, but it teaches resilience and time management. Meeting diverse classmates, joining activities, and working on real projects has helped me learn, connect, and grow. Beyond academics, college is about finding passions, building friendships, and preparing for life beyond the classroom.
     design:
       columns: '1'
-  - block: hero
+  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -55,6 +55,8 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
+      spacing: 4rem  
+      card_size: large
   
 ---
