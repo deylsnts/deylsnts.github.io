@@ -56,7 +56,5 @@ sections:
     design:
       view: article-grid
       columns: 1
-      spacing: 4rem  
-      card_size: large
   
 ---
