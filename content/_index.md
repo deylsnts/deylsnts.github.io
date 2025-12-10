@@ -48,7 +48,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Exemplary Academic Work
       filters:
         folders:
           - publications
