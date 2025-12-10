@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: ""
+    description: "A digital portfolio showcasing the projects, skills, and achievements of Christian Dale G. Santos, a full-stack developer passionate about creating impactful web and software solutions. Explore his work, experience, and creative journey in technology and design."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "BuildLore"              # Twitter/X handle for Twitter Cards (without @)
@@ -89,9 +89,9 @@ hugoblox:
     # Menu alignment
     align: center                       # left | center | right
     # Feature toggles
-    search: true
+    search: false
     theme_toggle: true
-    theme_picker: true
+    theme_picker: false
     language_switcher: true
     # Call-to-action button
     cta:
